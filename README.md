@@ -51,29 +51,29 @@ Capas implementadas
 📂 Estructura del Proyecto
 
 src/
-└── com/
-    └── techlab/
-        └── ecommerce/
-            ├── exception/
-            │   ├── ProductoNoEncontradoException.java
-            │   └── StockInsuficienteException.java
-            │
-            ├── model/
-            │   ├── Producto.java
-            │   ├── Pedido.java
-            │   └── LineaPedido.java
-            │
-            ├── service/
-            │   ├── ProductoService.java
-            │   └── PedidoService.java
-            │
-            ├── ui/
-            │   └── MenuProducto.java
-            │
-            ├── util/
-            │   └── Validador.java
-            │
-            └── Main.java
+-> com/
+    -> techlab/
+        -> ecommerce/
+            -> exception/
+            |   -> ProductoNoEncontradoException.java
+                -> StockInsuficienteException.java
+            |
+            |   -> model/
+            |   -> Producto.java
+            |   -> Pedido.java
+            |   -> LineaPedido.java
+            |
+            |   ->service/
+            |   -> ProductoService.java
+            |   -> PedidoService.java
+            |
+            |   -> ui/
+            |   -> MenuProducto.java
+            |
+            |   -> util/
+            |   -> Validador.java
+            |
+            |   -> Main.java
 
 ⚙️ Funcionalidades Implementadas
 
