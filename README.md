@@ -56,15 +56,20 @@ src/
         -> ecommerce/
             -> exception/
             |   -> ProductoNoEncontradoException.java
+                |
                 -> StockInsuficienteException.java
             |
             |   -> model/
+                |
             |   -> Producto.java
+                |
             |   -> Pedido.java
+                |
             |   -> LineaPedido.java
             |
             |   ->service/
             |   -> ProductoService.java
+                |
             |   -> PedidoService.java
             |
             |   -> ui/
